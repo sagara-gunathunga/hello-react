@@ -1,3 +1,7 @@
+# hello-react
+
+This repository contains a React application created using Vite.
+
 # Project Setup and Instructions
 
 This project integrates login and logout functionality using the Asgardeo React SDK. Follow the steps below to set up and run the project.
@@ -74,8 +78,6 @@ function App() {
 
 export default App;
 ```
-
-
 
 ### 5. Start the Development Server
 Run the following command to start the development server:
